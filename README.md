@@ -12,5 +12,6 @@ _ Using _
 _Using_
 
 First Header | Second Header
+------------ | -------------
 Content in the first Header | Content in the Second Header
 Content in the first column | content in the second column
